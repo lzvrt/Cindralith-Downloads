@@ -1,7 +1,7 @@
 {
   "format": 2,
-  "version": "0.20.1",
-  "revision": 18,
+  "version": "0.20.2",
+  "revision": 19,
   "legacyManagedNames": [
     "sodium-neoforge-0.8.13+mc1.21.1.jar",
     "lithium-neoforge-0.15.4+mc1.21.1.jar",
@@ -195,10 +195,10 @@
   "files": [
     {
       "name": "Cindralith-Tale.zip",
-      "size": 1101385425,
-      "sha256": "95c9b81980f61b82900f26f6fc36ae3b78041e2cfcdb1e09f0349f2d3d03128a",
+      "size": 1101390080,
+      "sha256": "91b29febe3ed15c104fa287f6884351c992573eafa63dc5866096ca709cf259d",
       "kind": "content",
-      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.20.1/Cindralith-Tale.zip"
+      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.20.2/Cindralith-Tale.zip"
     },
     {
       "name": "Cindralith-Base.zip",
@@ -209,10 +209,10 @@
     },
     {
       "name": "Cindralith-Tale-Extras.zip",
-      "size": 8637,
-      "sha256": "6d57c9c9cf6f13016e4647c7deda4320914bf7adf0246b9997a0f3fcf39ba6f5",
+      "size": 72857,
+      "sha256": "a6d39020ddec2b9e33bbaf0d68100aa826191df8dd0c0ae4186f0ea5b80bfad1",
       "kind": "extras",
-      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.20.1/Cindralith-Tale-Extras.zip"
+      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.20.2/Cindralith-Tale-Extras.zip"
     }
   ]
 }
