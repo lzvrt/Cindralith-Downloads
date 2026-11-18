@@ -1,7 +1,7 @@
 {
   "format": 2,
-  "version": "0.26.1",
-  "revision": 30,
+  "version": "0.26.2",
+  "revision": 31,
   "externalFiles": [
     {
       "path": "game/resourcepacks/Alacrity.zip",
@@ -50,6 +50,12 @@
       "url": "https://cdn.modrinth.com/data/qHdVMcp2/versions/mOXeLRGo/better-party-neoforge-1.21.1-1.1.9.jar",
       "size": 2741564,
       "sha256": "93f51e1069590379f6f1eeea39b09a474bb08b68a92b5b8c04309dbb83768cd7"
+    },
+    {
+      "path": "game/mods/e4mc-neoforge-6.2.3.jar",
+      "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/HXD8kS5O/e4mc-neoforge-6.2.3.jar",
+      "size": 666469,
+      "sha256": "6000692f216faa67f8a6be26fad6dffd54f1c229ee290f355cd42792c4cdbd57"
     }
   ],
   "legacyManagedNames": [
@@ -238,6 +244,7 @@
     "MossyLib-1.6.0+1.21.1+neoforge.jar",
     "matlib-1.0.0+1.21-neoforge.jar",
     "better-party-neoforge-1.21.1-1.1.9.jar",
+    "e4mc-neoforge-6.2.3.jar",
     "particular-1.21.1-NeoForge-1.5.7.jar",
     "ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar",
     "AmbientSounds_NEOFORGE_v6.3.11_mc1.21.1.jar",
