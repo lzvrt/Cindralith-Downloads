@@ -1,7 +1,7 @@
 {
   "format": 2,
-  "version": "0.25.0",
-  "revision": 28,
+  "version": "0.26.1",
+  "revision": 30,
   "externalFiles": [
     {
       "path": "game/resourcepacks/Alacrity.zip",
@@ -44,6 +44,12 @@
       "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/aVZEe0j8/punchy-3.2b-neoforge-1.21.1.jar",
       "size": 4523878,
       "sha256": "05c8258943d9cbd9aec4c929b78d00a4d42eb6126fbed761dc2f4bef3affdbbd"
+    },
+    {
+      "path": "game/mods/better-party-neoforge-1.21.1-1.1.9.jar",
+      "url": "https://cdn.modrinth.com/data/qHdVMcp2/versions/mOXeLRGo/better-party-neoforge-1.21.1-1.1.9.jar",
+      "size": 2741564,
+      "sha256": "93f51e1069590379f6f1eeea39b09a474bb08b68a92b5b8c04309dbb83768cd7"
     }
   ],
   "legacyManagedNames": [
@@ -231,6 +237,7 @@
     "CreativeCore_NEOFORGE_v2.13.54_mc1.21.1.jar",
     "MossyLib-1.6.0+1.21.1+neoforge.jar",
     "matlib-1.0.0+1.21-neoforge.jar",
+    "better-party-neoforge-1.21.1-1.1.9.jar",
     "particular-1.21.1-NeoForge-1.5.7.jar",
     "ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar",
     "AmbientSounds_NEOFORGE_v6.3.11_mc1.21.1.jar",
@@ -295,38 +302,38 @@
     },
     {
       "name": "Cindralith-Tale-B.zip",
-      "size": 158901425,
-      "sha256": "57269d8570c24808e9dd8a9dd54c747c9727250e821bdf2d43cbdf3a18605594",
+      "size": 158901121,
+      "sha256": "e84812a7201072ee13a08a402d06fdc3c3b4f465271751d1882a238f69b57332",
       "kind": "content",
-      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.25.0/Cindralith-Tale-B.zip"
+      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.26.1/Cindralith-Tale-B.zip"
     },
     {
       "name": "Cindralith-Tale-C.zip",
-      "size": 159020344,
-      "sha256": "5e6ff4b391d3bce6589e108776eaa4e1dc828c6a2b28b66d876c3b9dd8402c2b",
+      "size": 158616840,
+      "sha256": "caa3a604b21c5163c99063e6a9ae13d6a46f9f53eb318f669dbeb37a680519df",
       "kind": "content",
-      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.25.0/Cindralith-Tale-C.zip"
+      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.26.1/Cindralith-Tale-C.zip"
     },
     {
       "name": "Cindralith-Tale-D.zip",
-      "size": 158943587,
-      "sha256": "519e7029889362b4b525aa6d264232513a3a981c92c612c932e80e207043763e",
+      "size": 158943536,
+      "sha256": "b30639fc315fed19f130845c332f4a73e6131bf372cc9f4816877dcaaff02f27",
       "kind": "content",
-      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.25.0/Cindralith-Tale-D.zip"
+      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.26.1/Cindralith-Tale-D.zip"
     },
     {
       "name": "Cindralith-Tale-E.zip",
-      "size": 158800892,
-      "sha256": "fd78e29d5399adb5d87820711e8835a1ff9b30728357016e57cb9361bd593a97",
+      "size": 158800490,
+      "sha256": "51be275a0bc5b317c8de399508151f3ffa1cc52e9ee495631cf5b60c90be857e",
       "kind": "content",
-      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.25.0/Cindralith-Tale-E.zip"
+      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.26.1/Cindralith-Tale-E.zip"
     },
     {
       "name": "Cindralith-Tale-F.zip",
-      "size": 158836414,
-      "sha256": "2667041e8b66fa225581c60ca7edf66cf064f77c06cab2664abf384bbcd99812",
+      "size": 158796572,
+      "sha256": "694af454811eec77fe78e1ca4fc67790349b736d2e36f7db59ab157b27942540",
       "kind": "content",
-      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.25.0/Cindralith-Tale-F.zip"
+      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.26.1/Cindralith-Tale-F.zip"
     },
     {
       "name": "Cindralith-Base.zip",
@@ -337,10 +344,10 @@
     },
     {
       "name": "Cindralith-Tale-Extras.zip",
-      "size": 72839,
-      "sha256": "aa10d007bc84a893ddcee5abbe42886391f7ccd92f9792932033a577b66155d6",
+      "size": 94139,
+      "sha256": "05884b82bd16fe3dff50c12cff554be3f53b53c09cd4c61b4df38c14d6fca164",
       "kind": "extras",
-      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.25.0/Cindralith-Tale-Extras.zip"
+      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.26.1/Cindralith-Tale-Extras.zip"
     }
   ]
 }
