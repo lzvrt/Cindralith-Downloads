@@ -3,5 +3,10 @@
   "version": "0.27.1",
   "size": 124754458,
   "sha256": "0f688f9a213c931d8ed7de4839f6983820d7279e317d51a2017e6b640ead1f75",
-  "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/launcher-v0.27.1/Cindralith-Setup.exe"
+  "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/launcher-v0.27.1/Cindralith-Setup.exe",
+  "signature": {
+    "algorithm": "Ed25519",
+    "keyId": "cindralith-release-2026-11",
+    "value": "TA4UtGoxJhRUPm4OE/nQrWUTJTgMK5fwJHBaOoepYNY+lxIss4n+iq/oW1gmpwYACg4JGGXqvUShn322cGpFDQ=="
+  }
 }
