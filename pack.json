@@ -1,7 +1,7 @@
 {
   "format": 2,
-  "version": "0.26.2",
-  "revision": 31,
+  "version": "0.26.3",
+  "revision": 32,
   "externalFiles": [
     {
       "path": "game/resourcepacks/Alacrity.zip",
@@ -316,10 +316,10 @@
     },
     {
       "name": "Cindralith-Tale-C.zip",
-      "size": 158616840,
-      "sha256": "caa3a604b21c5163c99063e6a9ae13d6a46f9f53eb318f669dbeb37a680519df",
+      "size": 158640352,
+      "sha256": "0810add421c907f14f55dc6bea95b3841f8eaa45179408db7294d91082479bf0",
       "kind": "content",
-      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.26.1/Cindralith-Tale-C.zip"
+      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.26.3/Cindralith-Tale-C.zip"
     },
     {
       "name": "Cindralith-Tale-D.zip",
@@ -351,10 +351,10 @@
     },
     {
       "name": "Cindralith-Tale-Extras.zip",
-      "size": 94139,
-      "sha256": "05884b82bd16fe3dff50c12cff554be3f53b53c09cd4c61b4df38c14d6fca164",
+      "size": 72839,
+      "sha256": "51cac3a740978a49e8150d7544f07b52aa4be4dd2c0c95709fd6b5678cf7f2fd",
       "kind": "extras",
-      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.26.1/Cindralith-Tale-Extras.zip"
+      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.26.3/Cindralith-Tale-Extras.zip"
     }
   ]
 }
