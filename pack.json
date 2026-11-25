@@ -356,5 +356,10 @@
       "kind": "extras",
       "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.26.3/Cindralith-Tale-Extras.zip"
     }
-  ]
+  ],
+  "signature": {
+    "algorithm": "Ed25519",
+    "keyId": "cindralith-release-2026-11",
+    "value": "rC9h6dVL/5vWX/PaRPp82M+RnYas7QQzd+W9xmdlfjQF/j3FFj4z1EgiBSnDNy0OH2PM6sdv+RYr5ubfjCclAg=="
+  }
 }
