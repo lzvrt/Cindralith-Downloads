@@ -1,12 +1,12 @@
 {
   "format": 1,
-  "version": "0.28.0",
-  "size": 124756133,
-  "sha256": "9352cdcd4cc4923b81d5201e2e7b36ccd8aa0898e2566cf177e5efeb290dc3b5",
-  "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/launcher-v0.28.0/Cindralith-Setup.exe",
+  "version": "0.28.1",
+  "size": 132706519,
+  "sha256": "b1b4245df32bc3b972ecd1017f5061b104b604489fc7534e521dc2ddf24a0764",
+  "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/launcher-v0.28.1/Cindralith-Setup.exe",
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "cindralith-release-2026-11",
-    "value": "LScNmjknd+r4FiC3dUOYBsa5egtc9PRvprA0Rbs3OeaDG8F/XbGNIbsu7rq4lvOWqxeCWaOcgO7aqx9IpU1XDA=="
+    "value": "1ulvKwsQbd1TIrL9DaLdjUvf8TTw/avL53rv/7yGMOiUskEUVcziq78R5VFW8k11S0Jhg2EtaPXhJ/dCCF9YCQ=="
   }
 }
