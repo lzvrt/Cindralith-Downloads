@@ -1,7 +1,7 @@
 {
   "format": 2,
-  "version": "0.26.4",
-  "revision": 33,
+  "version": "0.26.5",
+  "revision": 34,
   "externalFiles": [
     {
       "path": "game/resourcepacks/Alacrity.zip",
@@ -316,10 +316,10 @@
     },
     {
       "name": "Cindralith-Tale-C.zip",
-      "size": 158641192,
-      "sha256": "7492853fc7e5a86ddb3813200987ee47856eaf19bfe90162c6441feea771e45b",
+      "size": 158897575,
+      "sha256": "ec8cc82a590f19b0646f9a5f50b78832cc28e433a6cd780c57a5c6b50995a689",
       "kind": "content",
-      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.26.4/Cindralith-Tale-C.zip"
+      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.26.5/Cindralith-Tale-C.zip"
     },
     {
       "name": "Cindralith-Tale-D.zip",
@@ -337,10 +337,10 @@
     },
     {
       "name": "Cindralith-Tale-F.zip",
-      "size": 158796572,
-      "sha256": "694af454811eec77fe78e1ca4fc67790349b736d2e36f7db59ab157b27942540",
+      "size": 159047203,
+      "sha256": "aa81e7ba77afd783270fda6e320b77b2bbb6e00a6e83144c102433258105dea9",
       "kind": "content",
-      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.26.1/Cindralith-Tale-F.zip"
+      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.26.5/Cindralith-Tale-F.zip"
     },
     {
       "name": "Cindralith-Base.zip",
@@ -351,15 +351,15 @@
     },
     {
       "name": "Cindralith-Tale-Extras.zip",
-      "size": 72839,
-      "sha256": "3b9e7d7cf5c29eb518f2089c548faddd46c52e4f6d8d9aace6374a171a671884",
+      "size": 74787,
+      "sha256": "0ca1429dea637c96774433d9c9f351e62ec1744847ce0d7eef2fe97835000a01",
       "kind": "extras",
-      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.26.4/Cindralith-Tale-Extras.zip"
+      "url": "https://github.com/lzvrt/Cindralith-Downloads/releases/download/pack-v0.26.5/Cindralith-Tale-Extras.zip"
     }
   ],
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "cindralith-release-2026-11",
-    "value": "Y7VSM63J26GZiAXSWke71VnHQ4DMMf+IrQcGuVMBxdQjSJjFhGJsrxdSMonoQybK9q45zTKWZFqtMP6oy/y5Aw=="
+    "value": "dSTc33gbfznMGdiItTImvDlvonLjoOmqB3Jh5nRai0I6Y7pzZ1IW1DUDaSteOEeAMp2pWhIiYiQQjxf1fXkGCA=="
   }
 }
